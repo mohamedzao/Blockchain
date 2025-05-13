@@ -1,0 +1,12 @@
+node1 :
+Public address of the key:   0xA7bfe6e43e1500DF318f43949b59cF456fBe8675
+Path of the secret key file: data/keystore/UTC--2025-04-24T21-34-34.473502742Z--a7bfe6e43e1500df318f43949b59cf456fbe8675
+
+
+
+node2 :
+Public address of the key:   0x5402842F980207cF96Da024A420A4FF7EbA16e3E
+Path of the secret key file: data/keystore/UTC--2025-04-24T21-34-55.756054048Z--5402842f980207cf96da024a420a4ff7eba16e3e
+
+enode : 
+enode://25e9d27c62b0dfd1d4e63519e729de1a9e2c62e777973ea780ef77cbfe6f6aecf371cba97aaa5a954d300e104b664eb680b05fc1afb46d3f3c21736d5d94c3c8@127.0.0.1:0?discport=30301
